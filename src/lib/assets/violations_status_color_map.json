@@ -1,0 +1,32 @@
+{
+  "DRIVER/VEHICLE INFO MISSING": [
+    127,
+    60,
+    141
+  ],
+  "EXEMPT - BUS/PARATRANSIT": [
+    17,
+    165,
+    121
+  ],
+  "EXEMPT - COMMERCIAL UNDER 20": [
+    57,
+    105,
+    172
+  ],
+  "EXEMPT - EMERGENCY VEHICLE": [
+    242,
+    183,
+    1
+  ],
+  "EXEMPT - OTHER": [
+    231,
+    63,
+    116
+  ],
+  "TECHNICAL ISSUE/OTHER": [
+    128,
+    186,
+    90
+  ]
+}

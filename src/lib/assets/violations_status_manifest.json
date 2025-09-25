@@ -1,0 +1,56 @@
+[
+  {
+    "status": "TECHNICAL ISSUE/OTHER",
+    "file": "violations_status_technical_issue_other.arrow",
+    "color": [
+      128,
+      186,
+      90
+    ]
+  },
+  {
+    "status": "EXEMPT - BUS/PARATRANSIT",
+    "file": "violations_status_exempt_bus_paratransit.arrow",
+    "color": [
+      17,
+      165,
+      121
+    ]
+  },
+  {
+    "status": "DRIVER/VEHICLE INFO MISSING",
+    "file": "violations_status_driver_vehicle_info_missing.arrow",
+    "color": [
+      127,
+      60,
+      141
+    ]
+  },
+  {
+    "status": "EXEMPT - COMMERCIAL UNDER 20",
+    "file": "violations_status_exempt_commercial_under_20.arrow",
+    "color": [
+      57,
+      105,
+      172
+    ]
+  },
+  {
+    "status": "EXEMPT - EMERGENCY VEHICLE",
+    "file": "violations_status_exempt_emergency_vehicle.arrow",
+    "color": [
+      242,
+      183,
+      1
+    ]
+  },
+  {
+    "status": "EXEMPT - OTHER",
+    "file": "violations_status_exempt_other.arrow",
+    "color": [
+      231,
+      63,
+      116
+    ]
+  }
+]
