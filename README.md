@@ -1,5 +1,13 @@
 # ACE Insights
 
+## Website URL
+
+https://mhc-datathon.github.io/DJI/
+
+## Intro Video
+
+https://mhc-datathon.github.io/DJI/intro_video.mp4
+
 ## Summary
 
 - Interactive SvelteKit site that visualizes MTA Automated Camera Enforcement (ACE) impacts on bus speeds and violation patterns across NYC.

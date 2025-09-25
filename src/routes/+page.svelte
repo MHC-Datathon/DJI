@@ -1047,16 +1047,23 @@
 				<div
 					class="pointer-events-auto mx-8 max-w-lg rounded-xl bg-white/95 p-8 shadow-2xl backdrop-blur-md"
 				>
-					<!-- <p class="text-xs"></p> -->
-					<!-- <input type="checkbox" id="scroll_zoom" name="scroll_zoom" />
-					<label for="scroll_zoom" class="text-xs">Scroll Zoom</label> -->
 					<input
 						type="checkbox"
 						aria-label="Enable map scroll zoom"
 						bind:checked={scrollZoomEnabled}
 					/>
 					<span>Zoom on scroll</span>
-					<h2 class="mb-6 text-3xl font-bold text-slate-900">{chapter.title}</h2>
+					<h2 class="mb-4 text-3xl font-bold text-slate-900">{chapter.title}</h2>
+
+					{#if chapter.id === 'intro'}
+						<a
+							href={asset('/intro_video.mp4')}
+							target="_blank"
+							class="mb-4 inline-block rounded bg-blue-600 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700"
+							>Watch Intro Video</a
+						>
+					{/if}
+
 					<p class="mb-6 text-lg leading-relaxed text-slate-700">{chapter.text}</p>
 
 					<!-- Interactive controls for ACE timeline chapter -->
