@@ -630,10 +630,13 @@
 		}
 
 		return [
-			'all',
-			['!=', ['get', 'implementation_date'], null],
-			['>=', ['get', 'implementation_date'], dateRange[0].getTime() / 1000],
-			['<=', ['get', 'implementation_date'], dateRange[1].getTime() / 1000]
+			'any',
+			['==', ['get', 'implementation_date'], null], // Show non-ACE routes
+			[
+				'all',
+				['>=', ['get', 'implementation_date'], dateRange[0].getTime() / 1000],
+				['<=', ['get', 'implementation_date'], dateRange[1].getTime() / 1000]
+			]
 		];
 	});
 
@@ -983,7 +986,7 @@
 										{hoveredCampusList.join(', ')}
 									</p>
 								{/if}
-								<p class="mt-2 text-xs text-slate-500">Click the route to lock the chart.</p>
+								<!-- <p class="mt-2 text-xs text-slate-500">Click the route to lock the chart.</p> -->
 							</Popup>
 						{/if}
 					{:else if layerId === 'cuny_campuses'}
@@ -1032,7 +1035,7 @@
 	/>
 
 	<!-- Chapter Progress Indicator -->
-	<!-- <ChapterIndicator 
+	<!-- <ChapterIndicator
 		{activeChapterIndex}
 		activeChapterTitle={activeChapter.title}
 		{totalChapters}
@@ -1055,14 +1058,14 @@
 					<span>Zoom on scroll</span>
 					<h2 class="mb-4 text-3xl font-bold text-slate-900">{chapter.title}</h2>
 
-					{#if chapter.id === 'intro'}
+					<!-- {#if chapter.id === 'intro'}
 						<a
 							href={asset('/intro_video.mp4')}
 							target="_blank"
 							class="mb-4 inline-block rounded bg-blue-600 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700"
 							>Watch Intro Video</a
 						>
-					{/if}
+					{/if} -->
 
 					<p class="mb-6 text-lg leading-relaxed text-slate-700">{chapter.text}</p>
 

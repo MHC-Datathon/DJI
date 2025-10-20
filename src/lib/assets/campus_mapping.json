@@ -1,106 +1,106 @@
 [
   {
-    "original": "Bronx Community College",
-    "sanitized": "bronx_community_college"
+    "original": "Borough of Manhattan Community College",
+    "sanitized": "borough_of_manhattan_community_college"
   },
   {
-    "original": "Kingsborough Community College",
-    "sanitized": "kingsborough_community_college"
+    "original": "Queensborough Community College",
+    "sanitized": "queensborough_community_college"
   },
   {
     "original": "Baruch College",
     "sanitized": "baruch_college"
   },
   {
-    "original": "School of Journalism",
-    "sanitized": "school_of_journalism"
-  },
-  {
-    "original": "Borough of Manhattan Community College",
-    "sanitized": "borough_of_manhattan_community_college"
-  },
-  {
-    "original": "School of Professional Studies",
-    "sanitized": "school_of_professional_studies"
-  },
-  {
-    "original": "New York City College of Technology",
-    "sanitized": "new_york_city_college_of_technology"
-  },
-  {
-    "original": "School of Public Health",
-    "sanitized": "school_of_public_health"
-  },
-  {
-    "original": "Medgar Evers College",
-    "sanitized": "medgar_evers_college"
-  },
-  {
-    "original": "Macaulay Honors College",
-    "sanitized": "macaulay_honors_college"
-  },
-  {
-    "original": "Brooklyn College",
-    "sanitized": "brooklyn_college"
-  },
-  {
     "original": "The City College of New York",
     "sanitized": "the_city_college_of_new_york"
   },
   {
-    "original": "Hostos Community College",
-    "sanitized": "hostos_community_college"
-  },
-  {
-    "original": "John Jay College of Criminal Justice",
-    "sanitized": "john_jay_college_of_criminal_justice"
-  },
-  {
-    "original": "College of Staten Island",
-    "sanitized": "college_of_staten_island"
-  },
-  {
-    "original": "Lehman College",
-    "sanitized": "lehman_college"
-  },
-  {
-    "original": "Queens College",
-    "sanitized": "queens_college"
-  },
-  {
-    "original": "York College",
-    "sanitized": "york_college"
+    "original": "Bronx Community College",
+    "sanitized": "bronx_community_college"
   },
   {
     "original": "LaGuardia Community College",
     "sanitized": "laguardia_community_college"
   },
   {
+    "original": "New York City College of Technology",
+    "sanitized": "new_york_city_college_of_technology"
+  },
+  {
     "original": "School of Labor and Urban Studies",
     "sanitized": "school_of_labor_and_urban_studies"
   },
   {
-    "original": "Hunter College",
-    "sanitized": "hunter_college"
+    "original": "Lehman College",
+    "sanitized": "lehman_college"
+  },
+  {
+    "original": "School of Public Health",
+    "sanitized": "school_of_public_health"
+  },
+  {
+    "original": "College of Staten Island",
+    "sanitized": "college_of_staten_island"
   },
   {
     "original": "School of Law",
     "sanitized": "school_of_law"
   },
   {
+    "original": "York College",
+    "sanitized": "york_college"
+  },
+  {
     "original": "Guttman Community College",
     "sanitized": "guttman_community_college"
   },
   {
-    "original": "The Graduate School and University Center",
-    "sanitized": "the_graduate_school_and_university_center"
+    "original": "School of Journalism",
+    "sanitized": "school_of_journalism"
+  },
+  {
+    "original": "School of Professional Studies",
+    "sanitized": "school_of_professional_studies"
+  },
+  {
+    "original": "Queens College",
+    "sanitized": "queens_college"
+  },
+  {
+    "original": "Hostos Community College",
+    "sanitized": "hostos_community_college"
   },
   {
     "original": "School of Medicine",
     "sanitized": "school_of_medicine"
   },
   {
-    "original": "Queensborough Community College",
-    "sanitized": "queensborough_community_college"
+    "original": "Hunter College",
+    "sanitized": "hunter_college"
+  },
+  {
+    "original": "Macaulay Honors College",
+    "sanitized": "macaulay_honors_college"
+  },
+  {
+    "original": "Medgar Evers College",
+    "sanitized": "medgar_evers_college"
+  },
+  {
+    "original": "Kingsborough Community College",
+    "sanitized": "kingsborough_community_college"
+  },
+  {
+    "original": "The Graduate School and University Center",
+    "sanitized": "the_graduate_school_and_university_center"
+  },
+  {
+    "original": "John Jay College of Criminal Justice",
+    "sanitized": "john_jay_college_of_criminal_justice"
+  },
+  {
+    "original": "Brooklyn College",
+    "sanitized": "brooklyn_college"
   }
 ]
